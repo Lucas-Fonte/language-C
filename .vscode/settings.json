@@ -4,6 +4,7 @@
         "functional": "c",
         "iterator": "c",
         "memory": "c",
-        "chrono": "c"
+        "chrono": "c",
+        "algorithm": "c"
     }
 }
